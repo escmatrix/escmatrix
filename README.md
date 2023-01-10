@@ -1,5 +1,3 @@
-So I see you want to escape the matrix...
+## So I see you want to escape the matrix...
 
-But first, this is all about me:
- - 
-
+Before we get started, I would like to enlighten you with some 
